@@ -6,12 +6,21 @@ the Ministere de la santé et des services sociaux du Québec.
 
 
 ### Table of contents:
+!!!! Peux-tu mettre les ancres correctement, je ne sais pas comment faire. Merci !
 
-- [Institutions](#institutions)
-- [Team](#team)
+- [Laboratoire de Santé Publique du Québec, INSPQ](#inspq)
+- [Université de Montréal] (#udem)
+- [McGill Genome Center] (#mgc)
+- [C3G]  (#c3g)
+- [Calcul Québec]  (#cq)
+- [Université McGill]  (#umcg)
+- [Génome Québec] (#GQ)
+
+!!!!! Ajouter ici image CoVSeQ-CoVBanQ_Team.jpg. Merci !
 
 
-## Institutions
+## Public Health Laboratory of Quebec (LSPQ) - INSPQ
+<a href="https://www.inspq.qc.ca/">INSPQ</a>
 
 <a href="https://www.inspq.qc.ca/">INSPQ</a> and <a href="https://www.inspq.qc.ca/lspq">LSPQ</a>
 The mission of the Institut de Santé Publique du Québec (INSPQ, Public Health Institut of Quebec) is a center of expertise and of reference for Public Health in Québec. Our mission is to support Québec’s Minister of Health and Social Services, regional public health authorities, and health and social services institutions in carrying out their public health responsibilities, by offering our expertise and specialized laboratory and screening services. Our objective is to improve the health status and the well being of the population. As a part of INSPQ, the Laboratoire de Santé Publique du Québec (LSPQ, Public
@@ -19,21 +28,6 @@ Health Laboratory of Quebec) is the reference microbiology laboratory of Québec
 LSPQ performs specialised analyses for the diagnostic and the surveillance of
 infectious diseases
   
-The Coronavirus Banq of Quebec is a biobanq of primary clinical specimen from COVID-19 positives patients collected by
-Québec hospitals and centralized in LSPQ. Specimen collected are mainly aliquots from
-nasopharyngeal or oropharyngeal swabs, saliva, broncho-alveolar lavage, expectoration,
-tissues or feces. 
-
-<a href="http://www.mcgillgenomecentre.org/">McGill Genome Center</a>  
-<a href="http://www.computationalgenomics.ca/">C3G</a>  
-<a href="https://www.calculquebec.ca/">Calcul Québec</a>  
-<a href="https://www.mcgill.ca/">U. McGill</a>  
-<a href="https://www.umontreal.ca/">UdeM</a>  
-
-
-## Team
-
-### LSPQ
 
 <ul>
 <li>  <b>Dr. Michel Roger, Medical director, Co-lead of CoV-SeQ program  </b></li>
@@ -43,29 +37,54 @@ tissues or feces.
 <li>  Eric Fournier, Bioinformatician</li>
 </ul>
 
-### McGIll Genome Center
+
+## Université de Montréal
+<a href="https://www.umontreal.ca/">UdeM</a>  
 
 <ul>
-<li>  <b>Prof. Ioannis Ragoussis, Head of Genome Science, Lead of CoVSeQ Sequencing Working Group</b> </li>
+<li>  Michel Roger, professor in the departement of Microbiology</li>
+<li>  Sandrine Moreira, associate professor in the department of Biochemistry</li>
+<li>  Hugues Charest, professor in the departement of Microbiology</li>
+</ul>
+
+
+
+## McGill Genome Center
+<a href="http://www.mcgillgenomecentre.org/">McGill Genome Center</a>  
+
+<ul>
+<li>  Prof. Ioannis Ragoussis, Head of Genome Science </li>
 <li>  Sarah Reiling, Research associate </li>
-<li>  <b>Jesse Shapiro, Assoc. Prof, Lead of CoVSeQ Phylogenetic Working Group</b> </li>
+<li>  Jesse Shapiro, Assoc. Prof </li>
 <li>  Carmen Lia Murall Post Doc </li>
 <li>  Prof. Guillaume Bourque, Head of Bioinformatics </li>
 </ul>
 
-### C3G
+## C3G
+<a href="http://www.computationalgenomics.ca/">C3G</a>  
 
 <ul>
-<li>  <b>Prof. Guillaume Bourque, Director, Lead of CoVSeQ Bioinformatics Working Group</b> </li>
+<li>  Prof. Guillaume Bourque, Director </li>
 <li>  Mathieu Bourgey, Bioinformatics manager - Technological development team </li>
 <li>  Paul Stretenowich, Bioinformatics consultant </li>
 <li>  José-Hector Galvez, Bioinformatics specialist </li>
 <li>  Pierre-Olivier Quirion, HPC specialist  </li>
 </ul>
 
-### Calcul Québec
+## Calcul Québec
+<a href="https://www.calculquebec.ca/">Calcul Québec</a>  
 
 <ul>
 <li>  Pierre-Olivier Quirion, HPC analyst </li>
 </ul>
 </ul>
+
+## Génome Québec
+<a href="http://www.genomequebec.com/">Génome Québec</a>
+
+The Coronavirus Banq of Quebec (CoVBanQ) is a biobanq of primary clinical specimen from COVID-19 positives patients collected by
+Québec hospitals and centralized in LSPQ. Specimen collected are mainly aliquots from
+nasopharyngeal or oropharyngeal swabs, saliva, broncho-alveolar lavage, expectoration,
+tissues or feces. 
+
+
